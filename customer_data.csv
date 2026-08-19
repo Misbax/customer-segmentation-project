@@ -1,0 +1,601 @@
+Customer_ID,Age,Gender,City,Annual_Income_INR,Purchase_Frequency,Average_Order_Value_INR,Annual_Spend_INR,Recency_Days,Online_Purchase_Ratio,Discount_Usage_Ratio,Preferred_Category,Loyalty_Score,Cluster,Segment
+CUST0001,37,Male,Pune,83213.0,13,300.0,4398.0,73,0.82,0.33,Electronics,72.0,0,Deal-Driven Shoppers
+CUST0002,31,Female,Lucknow,66791.0,21,1962.0,46546.0,43,0.82,0.15,Beauty,65.6,2,High-Value Loyalists
+CUST0003,29,Male,Hyderabad,80462.0,4,1906.0,8277.0,56,0.9,0.33,Beauty,50.6,0,Deal-Driven Shoppers
+CUST0004,31,Female,Lucknow,128020.0,16,3384.0,53800.0,57,0.65,0.42,Sports,56.5,1,At-Risk / Inactive
+CUST0005,28,Female,Bengaluru,155520.0,5,3090.0,17747.0,78,0.51,0.53,Sports,38.8,1,At-Risk / Inactive
+CUST0006,32,Female,Mumbai,64779.0,5,2489.0,11914.0,2,0.59,0.53,Home,43.8,0,Deal-Driven Shoppers
+CUST0007,46,Male,Bengaluru,67179.0,11,3914.0,40848.0,44,0.72,0.19,Sports,45.6,1,At-Risk / Inactive
+CUST0008,41,Female,Lucknow,70206.0,18,300.0,4829.0,22,0.47,0.42,Electronics,57.4,0,Deal-Driven Shoppers
+CUST0009,38,Male,Lucknow,59846.0,4,2454.0,9723.0,115,0.46,0.1,Beauty,11.4,1,At-Risk / Inactive
+CUST0010,19,Male,Mumbai,93980.0,28,2486.0,71851.0,8,0.77,0.24,Home,89.1,2,High-Value Loyalists
+CUST0011,18,Male,Delhi NCR,72690.0,8,3380.0,25468.0,58,0.61,0.2,Electronics,41.4,1,At-Risk / Inactive
+CUST0012,38,Female,Lucknow,123873.0,12,2366.0,30200.0,64,0.66,0.09,Electronics,56.4,1,At-Risk / Inactive
+CUST0013,35,Female,Hyderabad,151671.0,11,3444.0,41349.0,19,0.72,0.49,Sports,57.7,1,At-Risk / Inactive
+CUST0014,24,Other,Lucknow,61432.0,16,826.0,11258.0,46,0.33,0.39,Beauty,57.8,0,Deal-Driven Shoppers
+CUST0015,36,Male,Pune,31816.0,4,2373.0,8149.0,68,0.88,0.36,Sports,43.0,0,Deal-Driven Shoppers
+CUST0016,22,Male,Pune,37417.0,7,2824.0,21411.0,85,0.52,0.1,Home,40.2,1,At-Risk / Inactive
+CUST0017,52,Female,Bengaluru,79608.0,18,2122.0,36141.0,47,0.92,0.11,Beauty,80.6,2,High-Value Loyalists
+CUST0018,25,Male,Lucknow,99563.0,11,2259.0,25843.0,35,0.42,0.16,Sports,61.0,1,At-Risk / Inactive
+CUST0019,41,Female,Mumbai,86829.0,24,1572.0,38626.0,25,0.43,0.49,Beauty,74.7,2,High-Value Loyalists
+CUST0020,33,Female,Mumbai,55892.0,3,1177.0,3726.0,94,0.86,0.85,Beauty,20.8,0,Deal-Driven Shoppers
+CUST0021,41,Male,Pune,94147.0,14,2933.0,41524.0,26,0.12,0.07,Sports,45.4,1,At-Risk / Inactive
+CUST0022,50,Female,Hyderabad,56374.0,17,3482.0,51525.0,16,0.81,0.27,Electronics,83.6,2,High-Value Loyalists
+CUST0023,52,Female,Mumbai,88965.0,8,1763.0,13608.0,18,0.27,0.61,Fashion,40.2,0,Deal-Driven Shoppers
+CUST0024,49,Female,Delhi NCR,50033.0,6,2919.0,19776.0,45,0.29,0.53,Home,24.5,1,At-Risk / Inactive
+CUST0025,45,Female,Delhi NCR,62681.0,6,2653.0,18130.0,26,0.96,0.3,Electronics,44.8,0,Deal-Driven Shoppers
+CUST0026,26,Female,Mumbai,67584.0,31,1368.0,36239.0,90,0.45,0.27,Electronics,80.4,2,High-Value Loyalists
+CUST0027,46,Male,Mumbai,51837.0,4,1902.0,7037.0,34,0.81,0.22,Fashion,39.2,0,Deal-Driven Shoppers
+CUST0028,24,Female,Hyderabad,54361.0,7,2908.0,21685.0,13,0.38,0.58,Electronics,44.6,0,Deal-Driven Shoppers
+CUST0029,37,Female,Bengaluru,38066.0,12,2194.0,23696.0,32,0.54,0.27,Home,51.9,0,Deal-Driven Shoppers
+CUST0030,30,Male,Bengaluru,18000.0,19,2988.0,56610.0,36,0.54,0.52,Electronics,61.1,2,High-Value Loyalists
+CUST0031,57,Female,Delhi NCR,58398.0,4,548.0,1958.0,22,0.38,0.24,Home,33.6,0,Deal-Driven Shoppers
+CUST0032,56,Male,Lucknow,45617.0,28,1560.0,38613.0,28,0.4,0.28,Electronics,85.6,2,High-Value Loyalists
+CUST0033,24,Female,Hyderabad,100382.0,16,3090.0,44198.0,30,0.18,0.32,Fashion,60.4,1,At-Risk / Inactive
+CUST0034,30,Male,Pune,18000.0,14,3241.0,42311.0,40,0.94,0.89,Beauty,60.5,0,Deal-Driven Shoppers
+CUST0035,28,Female,Pune,81645.0,3,3071.0,10343.0,16,0.44,0.42,Sports,44.9,1,At-Risk / Inactive
+CUST0036,36,Female,Pune,102207.0,15,3755.0,50274.0,17,0.3,0.27,Beauty,65.1,1,At-Risk / Inactive
+CUST0037,41,Male,Delhi NCR,90191.0,20,2488.0,45856.0,11,0.61,0.42,Fashion,79.9,2,High-Value Loyalists
+CUST0038,44,Male,Hyderabad,87601.0,9,625.0,6080.0,27,0.78,0.53,Electronics,60.8,0,Deal-Driven Shoppers
+CUST0039,22,Female,Bengaluru,49775.0,5,4166.0,18775.0,47,0.98,0.64,Fashion,30.5,0,Deal-Driven Shoppers
+CUST0040,39,Female,Bengaluru,54527.0,10,4123.0,37405.0,48,0.27,0.33,Home,46.3,1,At-Risk / Inactive
+CUST0041,45,Female,Mumbai,79551.0,18,300.0,4785.0,26,0.77,0.65,Electronics,71.2,0,Deal-Driven Shoppers
+CUST0042,31,Female,Lucknow,80467.0,5,5662.0,24551.0,30,0.29,0.03,Electronics,46.0,1,At-Risk / Inactive
+CUST0043,40,Male,Pune,59015.0,9,2828.0,21655.0,63,0.59,0.46,Fashion,32.2,1,At-Risk / Inactive
+CUST0044,34,Female,Hyderabad,93133.0,5,3139.0,13554.0,36,0.17,0.37,Sports,23.3,1,At-Risk / Inactive
+CUST0045,40,Male,Mumbai,26068.0,9,2149.0,21032.0,34,0.5,0.27,Fashion,35.4,0,Deal-Driven Shoppers
+CUST0046,27,Female,Delhi NCR,109944.0,7,1943.0,15337.0,10,0.52,0.3,Fashion,42.6,1,At-Risk / Inactive
+CUST0047,37,Female,Lucknow,95027.0,23,704.0,16049.0,98,0.27,0.03,Fashion,68.3,1,At-Risk / Inactive
+CUST0048,40,Female,Hyderabad,87739.0,4,2392.0,9836.0,34,0.7,0.4,Home,31.6,1,At-Risk / Inactive
+CUST0049,35,Female,Bengaluru,85148.0,10,3502.0,37910.0,9,0.96,0.41,Beauty,64.1,0,Deal-Driven Shoppers
+CUST0050,43,Male,Delhi NCR,70304.0,18,2221.0,41920.0,55,0.75,0.18,Beauty,68.2,2,High-Value Loyalists
+CUST0051,30,Female,Hyderabad,146918.0,8,4068.0,30018.0,17,0.74,0.5,Fashion,51.2,1,At-Risk / Inactive
+CUST0052,34,Male,Delhi NCR,68426.0,14,1618.0,20644.0,26,0.76,0.16,Sports,54.8,0,Deal-Driven Shoppers
+CUST0053,32,Male,Mumbai,89846.0,8,3925.0,28990.0,35,0.49,0.29,Sports,26.0,1,At-Risk / Inactive
+CUST0054,38,Male,Pune,58877.0,13,6017.0,89299.0,33,0.89,0.45,Sports,57.2,2,High-Value Loyalists
+CUST0055,18,Male,Lucknow,66892.0,11,3939.0,38645.0,37,0.81,0.46,Beauty,56.5,1,At-Risk / Inactive
+CUST0056,48,Male,Hyderabad,31438.0,9,3129.0,25862.0,30,0.55,0.19,Fashion,49.6,1,At-Risk / Inactive
+CUST0057,33,Male,Lucknow,138628.0,12,2773.0,35569.0,48,0.55,0.43,Electronics,57.8,1,At-Risk / Inactive
+CUST0058,22,Female,Pune,91677.0,13,2410.0,27022.0,33,0.52,0.44,Electronics,63.8,0,Deal-Driven Shoppers
+CUST0059,31,Male,Bengaluru,79682.0,20,2708.0,47005.0,93,0.85,0.57,Sports,76.7,2,High-Value Loyalists
+CUST0060,52,Female,Delhi NCR,57632.0,11,3756.0,41784.0,94,0.37,0.05,Electronics,36.7,1,At-Risk / Inactive
+CUST0061,33,Male,Hyderabad,18000.0,22,3016.0,62134.0,19,0.37,0.09,Home,73.9,2,High-Value Loyalists
+CUST0062,32,Female,Hyderabad,52765.0,14,3184.0,45404.0,10,0.34,0.26,Beauty,57.7,1,At-Risk / Inactive
+CUST0063,34,Female,Mumbai,61660.0,6,1498.0,9593.0,15,0.81,0.57,Sports,47.7,0,Deal-Driven Shoppers
+CUST0064,41,Female,Bengaluru,60179.0,16,2800.0,45348.0,37,0.62,0.61,Fashion,57.9,0,Deal-Driven Shoppers
+CUST0065,49,Female,Lucknow,82809.0,14,2766.0,33132.0,34,0.63,0.62,Fashion,61.3,0,Deal-Driven Shoppers
+CUST0066,45,Female,Lucknow,68014.0,9,2288.0,21283.0,37,0.74,0.3,Electronics,41.4,0,Deal-Driven Shoppers
+CUST0067,44,Male,Pune,64643.0,8,3406.0,29664.0,46,0.63,0.22,Beauty,32.7,1,At-Risk / Inactive
+CUST0068,33,Female,Bengaluru,53929.0,13,906.0,12025.0,90,0.83,0.18,Fashion,73.6,0,Deal-Driven Shoppers
+CUST0069,35,Male,Pune,73727.0,4,2978.0,10670.0,15,0.78,0.26,Fashion,49.0,1,At-Risk / Inactive
+CUST0070,28,Male,Hyderabad,66406.0,10,362.0,4159.0,35,0.7,0.09,Fashion,41.3,0,Deal-Driven Shoppers
+CUST0071,27,Female,Bengaluru,29981.0,10,551.0,4947.0,71,0.43,0.49,Home,34.9,0,Deal-Driven Shoppers
+CUST0072,21,Male,Delhi NCR,82758.0,12,1161.0,15353.0,44,0.27,0.36,Beauty,50.1,0,Deal-Driven Shoppers
+CUST0073,27,Male,Delhi NCR,54208.0,12,428.0,4478.0,27,0.34,0.24,Fashion,48.1,0,Deal-Driven Shoppers
+CUST0074,50,Male,Pune,43259.0,6,2682.0,13848.0,56,0.32,0.33,Sports,33.7,1,At-Risk / Inactive
+CUST0075,38,Male,Lucknow,30376.0,17,1780.0,27106.0,7,0.67,0.17,Fashion,55.4,0,Deal-Driven Shoppers
+CUST0076,36,Male,Mumbai,116673.0,10,2491.0,25953.0,12,0.76,0.62,Fashion,68.1,0,Deal-Driven Shoppers
+CUST0077,28,Female,Delhi NCR,36215.0,15,1336.0,20212.0,43,0.78,0.38,Beauty,68.6,0,Deal-Driven Shoppers
+CUST0078,34,Male,Hyderabad,61511.0,13,3531.0,51930.0,20,0.42,0.6,Sports,42.8,1,At-Risk / Inactive
+CUST0079,26,Male,Lucknow,79832.0,5,3867.0,19928.0,31,0.41,0.39,Sports,47.4,1,At-Risk / Inactive
+CUST0080,19,Female,Delhi NCR,47161.0,19,1925.0,35609.0,36,0.9,0.48,Fashion,70.0,0,Deal-Driven Shoppers
+CUST0081,40,Male,Delhi NCR,67648.0,15,1849.0,30352.0,64,0.67,0.21,Fashion,55.7,0,Deal-Driven Shoppers
+CUST0082,40,Male,Delhi NCR,65193.0,11,3498.0,35284.0,19,0.24,0.14,Electronics,43.9,1,At-Risk / Inactive
+CUST0083,49,Female,Bengaluru,95361.0,24,3571.0,73881.0,39,0.66,0.51,Fashion,80.3,2,High-Value Loyalists
+CUST0084,22,Female,Lucknow,18000.0,24,2862.0,76946.0,64,0.41,0.36,Fashion,74.7,2,High-Value Loyalists
+CUST0085,43,Male,Hyderabad,45029.0,11,3046.0,29836.0,31,0.18,0.55,Fashion,51.5,1,At-Risk / Inactive
+CUST0086,38,Female,Mumbai,65072.0,17,479.0,7463.0,85,0.42,0.38,Beauty,47.3,0,Deal-Driven Shoppers
+CUST0087,49,Female,Hyderabad,18000.0,3,1358.0,4441.0,71,0.58,0.28,Electronics,46.7,0,Deal-Driven Shoppers
+CUST0088,19,Female,Delhi NCR,96684.0,18,3646.0,69558.0,3,0.46,0.24,Fashion,72.0,2,High-Value Loyalists
+CUST0089,29,Female,Delhi NCR,38775.0,4,2867.0,10980.0,11,0.46,0.15,Fashion,49.8,1,At-Risk / Inactive
+CUST0090,23,Female,Lucknow,92685.0,11,300.0,3200.0,16,0.66,0.46,Beauty,54.1,0,Deal-Driven Shoppers
+CUST0091,33,Female,Delhi NCR,76237.0,9,1060.0,9247.0,38,0.42,0.16,Home,32.7,1,At-Risk / Inactive
+CUST0092,37,Male,Lucknow,34880.0,18,3700.0,58581.0,14,0.81,0.28,Sports,82.6,2,High-Value Loyalists
+CUST0093,43,Male,Mumbai,124290.0,6,4368.0,24215.0,18,0.9,0.25,Fashion,45.1,1,At-Risk / Inactive
+CUST0094,40,Male,Pune,69928.0,13,1727.0,23629.0,13,0.83,0.19,Beauty,58.3,0,Deal-Driven Shoppers
+CUST0095,39,Female,Pune,33834.0,18,2959.0,52722.0,36,0.5,0.42,Beauty,57.4,0,Deal-Driven Shoppers
+CUST0096,39,Male,Mumbai,69382.0,10,300.0,3157.0,45,0.76,0.61,Electronics,41.3,0,Deal-Driven Shoppers
+CUST0097,25,Female,Bengaluru,24947.0,4,1005.0,4585.0,51,0.61,0.7,Fashion,28.3,0,Deal-Driven Shoppers
+CUST0098,34,Female,Bengaluru,18000.0,22,300.0,6674.0,39,0.59,0.29,Sports,68.5,0,Deal-Driven Shoppers
+CUST0099,47,Female,Lucknow,75738.0,19,2516.0,41389.0,21,0.73,0.19,Home,78.1,2,High-Value Loyalists
+CUST0100,20,Female,Bengaluru,83010.0,11,3511.0,35495.0,54,0.91,0.23,Beauty,54.3,1,At-Risk / Inactive
+CUST0101,18,Male,Hyderabad,52353.0,5,3633.0,17540.0,15,0.2,0.56,Electronics,43.0,1,At-Risk / Inactive
+CUST0102,41,Female,Lucknow,94992.0,7,988.0,6666.0,32,0.47,0.26,Fashion,51.4,0,Deal-Driven Shoppers
+CUST0103,23,Male,Mumbai,46466.0,3,3914.0,10678.0,13,0.91,0.06,Fashion,49.3,1,At-Risk / Inactive
+CUST0104,21,Female,Lucknow,63375.0,28,1778.0,51966.0,17,0.93,0.57,Beauty,100.0,2,High-Value Loyalists
+CUST0105,32,Female,Lucknow,97978.0,7,3234.0,22693.0,33,0.33,0.18,Electronics,45.8,1,At-Risk / Inactive
+CUST0106,32,Female,Lucknow,110410.0,7,2699.0,18639.0,15,0.52,0.23,Beauty,53.3,1,At-Risk / Inactive
+CUST0107,41,Male,Delhi NCR,94897.0,22,1597.0,35567.0,96,0.64,0.06,Beauty,75.3,2,High-Value Loyalists
+CUST0108,18,Male,Mumbai,77396.0,9,3445.0,27832.0,48,0.81,0.07,Fashion,57.5,1,At-Risk / Inactive
+CUST0109,21,Male,Mumbai,18000.0,17,3604.0,52211.0,25,0.68,0.05,Fashion,73.9,2,High-Value Loyalists
+CUST0110,21,Male,Hyderabad,51069.0,3,2694.0,8128.0,26,0.74,0.54,Sports,32.6,0,Deal-Driven Shoppers
+CUST0111,28,Female,Lucknow,43886.0,6,1515.0,8300.0,31,0.36,0.68,Sports,28.2,0,Deal-Driven Shoppers
+CUST0112,37,Female,Hyderabad,118045.0,21,3465.0,66997.0,13,0.89,0.28,Fashion,100.0,2,High-Value Loyalists
+CUST0113,18,Female,Lucknow,82854.0,13,2389.0,27988.0,47,0.34,0.44,Sports,57.5,1,At-Risk / Inactive
+CUST0114,44,Male,Mumbai,86132.0,9,1352.0,11282.0,19,0.89,0.38,Beauty,69.2,0,Deal-Driven Shoppers
+CUST0115,37,Male,Bengaluru,97359.0,14,1411.0,20973.0,31,0.66,0.19,Home,67.5,0,Deal-Driven Shoppers
+CUST0116,18,Male,Bengaluru,45626.0,6,3715.0,21425.0,26,0.61,0.74,Sports,48.8,0,Deal-Driven Shoppers
+CUST0117,58,Female,Lucknow,80474.0,36,3817.0,130085.0,12,0.32,0.11,Electronics,89.2,2,High-Value Loyalists
+CUST0118,49,Male,Bengaluru,85749.0,18,1764.0,27692.0,30,0.81,0.24,Fashion,62.4,0,Deal-Driven Shoppers
+CUST0119,27,Male,Pune,40896.0,6,2469.0,15722.0,57,0.78,0.47,Fashion,38.7,0,Deal-Driven Shoppers
+CUST0120,37,Male,Mumbai,85224.0,6,3327.0,22654.0,105,0.52,0.1,Beauty,31.7,1,At-Risk / Inactive
+CUST0121,18,Female,Pune,52525.0,23,2837.0,72142.0,38,0.78,0.27,Sports,70.1,2,High-Value Loyalists
+CUST0122,47,Male,Lucknow,77144.0,4,1022.0,4446.0,9,0.72,0.69,Fashion,36.6,0,Deal-Driven Shoppers
+CUST0123,29,Male,Mumbai,37550.0,21,1509.0,35527.0,46,0.65,0.32,Fashion,70.4,0,Deal-Driven Shoppers
+CUST0124,21,Male,Hyderabad,90131.0,15,3232.0,45833.0,38,0.87,0.6,Fashion,62.4,0,Deal-Driven Shoppers
+CUST0125,34,Male,Pune,103298.0,10,2982.0,25896.0,38,0.52,0.08,Sports,48.4,1,At-Risk / Inactive
+CUST0126,20,Male,Hyderabad,75220.0,10,2581.0,22822.0,15,0.79,0.37,Beauty,65.6,0,Deal-Driven Shoppers
+CUST0127,29,Male,Lucknow,82728.0,17,2976.0,53505.0,69,0.49,0.04,Fashion,56.5,1,At-Risk / Inactive
+CUST0128,37,Female,Pune,20422.0,8,1492.0,12445.0,9,0.87,0.65,Electronics,56.7,0,Deal-Driven Shoppers
+CUST0129,52,Female,Mumbai,92486.0,8,2894.0,20554.0,44,0.37,0.56,Electronics,41.2,1,At-Risk / Inactive
+CUST0130,41,Female,Delhi NCR,20047.0,11,1610.0,16267.0,9,0.13,0.34,Beauty,41.5,0,Deal-Driven Shoppers
+CUST0131,35,Female,Lucknow,73879.0,13,1917.0,23738.0,13,0.31,0.4,Electronics,59.9,0,Deal-Driven Shoppers
+CUST0132,48,Female,Mumbai,34042.0,7,627.0,3804.0,18,0.67,0.4,Beauty,40.1,0,Deal-Driven Shoppers
+CUST0133,31,Male,Bengaluru,48134.0,10,5203.0,59314.0,24,0.55,0.22,Electronics,50.9,1,At-Risk / Inactive
+CUST0134,30,Male,Mumbai,70639.0,13,3975.0,59127.0,56,0.74,0.39,Sports,43.1,1,At-Risk / Inactive
+CUST0135,43,Male,Mumbai,84751.0,16,2311.0,36158.0,78,0.52,0.81,Fashion,60.6,0,Deal-Driven Shoppers
+CUST0136,29,Female,Hyderabad,99078.0,9,2797.0,21519.0,20,0.32,0.36,Fashion,41.0,1,At-Risk / Inactive
+CUST0137,26,Male,Bengaluru,51052.0,22,4772.0,102266.0,74,0.44,0.18,Fashion,58.0,2,High-Value Loyalists
+CUST0138,45,Male,Pune,44349.0,14,1785.0,24702.0,110,0.79,0.77,Beauty,50.5,0,Deal-Driven Shoppers
+CUST0139,31,Male,Bengaluru,18000.0,23,1600.0,33993.0,19,0.85,0.32,Fashion,71.8,0,Deal-Driven Shoppers
+CUST0140,41,Male,Lucknow,22100.0,28,3109.0,85442.0,26,0.42,0.31,Fashion,78.9,2,High-Value Loyalists
+CUST0141,35,Male,Mumbai,39523.0,11,3062.0,31396.0,44,0.79,0.51,Home,57.7,0,Deal-Driven Shoppers
+CUST0142,28,Female,Hyderabad,74320.0,7,1554.0,10983.0,8,0.89,0.34,Fashion,56.5,0,Deal-Driven Shoppers
+CUST0143,45,Female,Pune,101833.0,8,2378.0,21456.0,28,0.83,0.34,Home,38.4,1,At-Risk / Inactive
+CUST0144,34,Male,Delhi NCR,78701.0,9,3703.0,36169.0,24,0.55,0.27,Beauty,46.0,1,At-Risk / Inactive
+CUST0145,45,Female,Pune,47566.0,12,2344.0,27749.0,16,0.69,0.34,Beauty,52.1,0,Deal-Driven Shoppers
+CUST0146,30,Male,Delhi NCR,42785.0,15,2973.0,49044.0,49,0.54,0.64,Fashion,64.9,0,Deal-Driven Shoppers
+CUST0147,40,Male,Mumbai,95030.0,11,4135.0,45547.0,29,0.93,0.25,Beauty,62.6,1,At-Risk / Inactive
+CUST0148,39,Female,Mumbai,61113.0,14,419.0,6302.0,29,0.48,0.17,Sports,62.8,0,Deal-Driven Shoppers
+CUST0149,27,Female,Delhi NCR,67839.0,8,3124.0,23857.0,24,0.68,0.77,Electronics,51.2,0,Deal-Driven Shoppers
+CUST0150,32,Female,Mumbai,77437.0,19,2366.0,46478.0,51,0.51,0.25,Fashion,56.7,1,At-Risk / Inactive
+CUST0151,33,Male,Delhi NCR,82012.0,9,4922.0,47325.0,22,0.05,0.15,Beauty,55.1,1,At-Risk / Inactive
+CUST0152,24,Female,Delhi NCR,98304.0,20,1653.0,37366.0,121,0.86,0.36,Beauty,62.6,0,Deal-Driven Shoppers
+CUST0153,34,Male,Delhi NCR,18084.0,10,3099.0,29185.0,9,0.75,0.59,Beauty,58.7,0,Deal-Driven Shoppers
+CUST0154,32,Male,Bengaluru,95432.0,3,300.0,1021.0,15,0.51,0.19,Electronics,31.3,0,Deal-Driven Shoppers
+CUST0155,26,Male,Pune,82004.0,10,3195.0,27404.0,33,0.46,0.36,Sports,44.4,1,At-Risk / Inactive
+CUST0156,34,Male,Bengaluru,44998.0,14,464.0,5958.0,36,0.63,0.25,Beauty,62.1,0,Deal-Driven Shoppers
+CUST0157,43,Female,Lucknow,93354.0,12,2770.0,33013.0,43,0.34,0.25,Electronics,49.2,1,At-Risk / Inactive
+CUST0158,27,Female,Delhi NCR,141181.0,11,4267.0,40811.0,30,0.36,0.15,Home,49.8,1,At-Risk / Inactive
+CUST0159,32,Female,Lucknow,128587.0,7,1021.0,7192.0,22,0.88,0.72,Home,60.1,0,Deal-Driven Shoppers
+CUST0160,20,Male,Mumbai,90840.0,14,3278.0,49121.0,43,0.96,0.33,Sports,68.3,2,High-Value Loyalists
+CUST0161,22,Male,Mumbai,44446.0,31,2033.0,56472.0,31,0.76,0.63,Fashion,93.5,2,High-Value Loyalists
+CUST0162,27,Male,Delhi NCR,79735.0,20,2684.0,60631.0,71,0.87,0.36,Fashion,68.1,2,High-Value Loyalists
+CUST0163,26,Female,Bengaluru,64644.0,14,1132.0,16386.0,37,0.74,0.57,Home,59.0,0,Deal-Driven Shoppers
+CUST0164,30,Male,Mumbai,58970.0,3,4230.0,13894.0,59,0.69,0.53,Electronics,24.9,1,At-Risk / Inactive
+CUST0165,39,Female,Lucknow,106546.0,10,3324.0,33778.0,16,0.6,0.43,Fashion,55.7,1,At-Risk / Inactive
+CUST0166,59,Male,Mumbai,100295.0,3,4419.0,12918.0,10,0.74,0.17,Fashion,41.0,1,At-Risk / Inactive
+CUST0167,37,Female,Pune,69063.0,15,2616.0,43395.0,34,0.8,0.64,Home,52.9,0,Deal-Driven Shoppers
+CUST0168,33,Female,Delhi NCR,39859.0,12,550.0,5699.0,26,0.53,0.39,Fashion,56.5,0,Deal-Driven Shoppers
+CUST0169,22,Male,Hyderabad,64165.0,15,1382.0,23741.0,53,0.64,0.37,Beauty,65.9,0,Deal-Driven Shoppers
+CUST0170,43,Male,Bengaluru,84804.0,12,2334.0,31072.0,65,0.46,0.48,Sports,41.4,1,At-Risk / Inactive
+CUST0171,18,Female,Hyderabad,45248.0,24,3671.0,85923.0,41,0.54,0.27,Electronics,97.2,2,High-Value Loyalists
+CUST0172,18,Female,Mumbai,50934.0,17,3099.0,48537.0,21,0.41,0.37,Beauty,56.5,1,At-Risk / Inactive
+CUST0173,26,Male,Mumbai,64575.0,11,992.0,10442.0,26,0.53,0.14,Fashion,54.1,0,Deal-Driven Shoppers
+CUST0174,37,Male,Mumbai,83458.0,22,2787.0,52372.0,82,0.64,0.39,Beauty,72.4,2,High-Value Loyalists
+CUST0175,58,Female,Mumbai,116990.0,9,2589.0,23175.0,48,0.63,0.25,Fashion,48.6,1,At-Risk / Inactive
+CUST0176,38,Female,Pune,71552.0,10,2970.0,29199.0,36,0.65,0.73,Home,63.2,0,Deal-Driven Shoppers
+CUST0177,33,Male,Lucknow,55279.0,11,2804.0,31003.0,21,0.25,0.29,Sports,39.8,1,At-Risk / Inactive
+CUST0178,18,Male,Lucknow,96726.0,2,2333.0,4251.0,40,0.51,0.55,Beauty,26.9,1,At-Risk / Inactive
+CUST0179,48,Female,Hyderabad,67826.0,19,1476.0,30127.0,41,0.34,0.47,Electronics,59.6,0,Deal-Driven Shoppers
+CUST0180,28,Female,Mumbai,109806.0,23,4959.0,99717.0,36,0.27,0.06,Sports,76.1,2,High-Value Loyalists
+CUST0181,25,Female,Lucknow,60017.0,2,3887.0,7566.0,25,0.5,0.02,Sports,40.9,1,At-Risk / Inactive
+CUST0182,33,Female,Lucknow,88318.0,13,3212.0,37207.0,29,0.49,0.4,Electronics,60.4,1,At-Risk / Inactive
+CUST0183,49,Female,Bengaluru,143708.0,5,3243.0,14426.0,13,0.83,0.09,Sports,43.2,1,At-Risk / Inactive
+CUST0184,24,Female,Pune,42420.0,7,5677.0,44657.0,53,0.8,0.15,Electronics,44.6,1,At-Risk / Inactive
+CUST0185,23,Female,Pune,87560.0,4,2259.0,8524.0,10,0.61,0.23,Fashion,37.9,1,At-Risk / Inactive
+CUST0186,32,Male,Mumbai,81773.0,9,1278.0,11544.0,38,0.5,0.33,Fashion,46.2,0,Deal-Driven Shoppers
+CUST0187,32,Male,Hyderabad,42992.0,18,300.0,4706.0,27,0.53,0.13,Home,70.7,0,Deal-Driven Shoppers
+CUST0188,53,Male,Bengaluru,106989.0,6,1636.0,8718.0,1,0.36,0.32,Fashion,54.1,1,At-Risk / Inactive
+CUST0189,32,Female,Lucknow,56739.0,9,559.0,4654.0,27,0.38,0.31,Sports,55.3,0,Deal-Driven Shoppers
+CUST0190,24,Male,Hyderabad,88945.0,16,2526.0,44370.0,16,0.65,0.24,Beauty,80.6,2,High-Value Loyalists
+CUST0191,40,Female,Lucknow,98514.0,8,2208.0,16325.0,16,0.69,0.13,Sports,29.6,1,At-Risk / Inactive
+CUST0192,21,Female,Pune,80530.0,15,2670.0,37819.0,18,0.52,0.16,Home,66.1,1,At-Risk / Inactive
+CUST0193,34,Male,Delhi NCR,72062.0,12,3467.0,45708.0,50,0.44,0.03,Beauty,43.7,1,At-Risk / Inactive
+CUST0194,42,Male,Hyderabad,90725.0,18,2149.0,41868.0,45,0.84,0.42,Home,68.3,0,Deal-Driven Shoppers
+CUST0195,41,Female,Delhi NCR,67276.0,8,1975.0,15081.0,46,0.77,0.37,Fashion,46.7,0,Deal-Driven Shoppers
+CUST0196,41,Female,Lucknow,84725.0,12,1243.0,15059.0,83,0.36,0.22,Beauty,38.5,1,At-Risk / Inactive
+CUST0197,43,Female,Pune,58214.0,14,1382.0,21935.0,24,0.18,0.57,Beauty,51.3,0,Deal-Driven Shoppers
+CUST0198,18,Female,Lucknow,52754.0,2,3464.0,7568.0,6,0.37,0.28,Electronics,32.6,1,At-Risk / Inactive
+CUST0199,18,Female,Hyderabad,92092.0,39,1989.0,69048.0,85,0.75,0.41,Home,100.0,2,High-Value Loyalists
+CUST0200,43,Female,Mumbai,21982.0,17,1783.0,33284.0,53,0.82,0.32,Beauty,65.0,0,Deal-Driven Shoppers
+CUST0201,19,Female,Delhi NCR,113306.0,2,4438.0,10089.0,7,0.4,0.47,Fashion,32.0,1,At-Risk / Inactive
+CUST0202,50,Male,Bengaluru,87061.0,13,1648.0,20996.0,23,0.19,0.24,Fashion,56.6,1,At-Risk / Inactive
+CUST0203,38,Female,Hyderabad,88382.0,8,1394.0,10017.0,33,0.75,0.14,Home,48.7,0,Deal-Driven Shoppers
+CUST0204,40,Male,Delhi NCR,50009.0,2,2915.0,6446.0,19,0.13,0.27,Fashion,20.5,1,At-Risk / Inactive
+CUST0205,47,Female,Hyderabad,79874.0,14,1444.0,21861.0,14,0.26,0.21,Fashion,36.3,1,At-Risk / Inactive
+CUST0206,39,Male,Pune,72205.0,8,3631.0,32372.0,16,0.32,0.33,Fashion,40.8,1,At-Risk / Inactive
+CUST0207,48,Male,Mumbai,27527.0,5,2231.0,11727.0,46,0.85,0.38,Beauty,55.5,0,Deal-Driven Shoppers
+CUST0208,45,Male,Lucknow,74311.0,19,3052.0,52118.0,15,0.7,0.23,Home,67.9,2,High-Value Loyalists
+CUST0209,43,Male,Mumbai,34826.0,8,1564.0,12708.0,21,0.67,0.16,Sports,42.7,0,Deal-Driven Shoppers
+CUST0210,45,Male,Delhi NCR,78615.0,10,1863.0,20486.0,72,0.95,0.12,Beauty,45.4,0,Deal-Driven Shoppers
+CUST0211,22,Male,Pune,35774.0,18,5361.0,103210.0,6,0.8,0.3,Beauty,68.3,2,High-Value Loyalists
+CUST0212,27,Male,Hyderabad,83547.0,21,1659.0,38672.0,37,0.24,0.5,Beauty,80.3,2,High-Value Loyalists
+CUST0213,40,Female,Mumbai,79980.0,12,2106.0,23696.0,29,0.43,0.17,Sports,48.9,1,At-Risk / Inactive
+CUST0214,31,Male,Mumbai,57429.0,18,300.0,4709.0,38,0.48,0.63,Fashion,62.5,0,Deal-Driven Shoppers
+CUST0215,38,Male,Pune,24967.0,28,2468.0,73730.0,27,0.4,0.11,Fashion,86.7,2,High-Value Loyalists
+CUST0216,54,Male,Delhi NCR,99899.0,15,1217.0,20117.0,14,0.58,0.31,Fashion,65.9,0,Deal-Driven Shoppers
+CUST0217,37,Female,Lucknow,48790.0,6,1393.0,9140.0,63,0.55,0.3,Sports,26.1,0,Deal-Driven Shoppers
+CUST0218,19,Male,Lucknow,139543.0,10,2071.0,17606.0,40,0.6,0.51,Beauty,46.3,1,At-Risk / Inactive
+CUST0219,45,Male,Lucknow,18000.0,11,2491.0,25073.0,30,0.9,0.06,Home,55.8,0,Deal-Driven Shoppers
+CUST0220,29,Male,Lucknow,47449.0,5,2463.0,13728.0,52,0.14,0.27,Home,24.8,1,At-Risk / Inactive
+CUST0221,53,Male,Mumbai,62880.0,29,2801.0,82367.0,29,0.82,0.34,Fashion,100.0,2,High-Value Loyalists
+CUST0222,42,Female,Pune,105951.0,10,2245.0,22156.0,46,0.16,0.04,Sports,47.3,1,At-Risk / Inactive
+CUST0223,28,Male,Hyderabad,110231.0,13,2235.0,25622.0,44,0.19,0.23,Sports,42.9,1,At-Risk / Inactive
+CUST0224,29,Female,Pune,73925.0,32,2036.0,66645.0,44,0.82,0.49,Sports,100.0,2,High-Value Loyalists
+CUST0225,42,Female,Lucknow,75940.0,4,3098.0,14066.0,56,0.96,0.55,Beauty,61.5,0,Deal-Driven Shoppers
+CUST0226,40,Female,Delhi NCR,97157.0,19,4467.0,72659.0,19,0.66,0.14,Electronics,78.1,2,High-Value Loyalists
+CUST0227,18,Male,Mumbai,84342.0,4,1492.0,5715.0,47,0.56,0.28,Home,18.8,1,At-Risk / Inactive
+CUST0228,23,Female,Lucknow,18000.0,12,3408.0,45254.0,35,0.59,0.69,Home,45.3,0,Deal-Driven Shoppers
+CUST0229,31,Female,Delhi NCR,40257.0,16,3606.0,64191.0,58,0.35,0.43,Sports,61.0,2,High-Value Loyalists
+CUST0230,39,Male,Hyderabad,72664.0,45,2536.0,107410.0,52,0.88,0.69,Beauty,100.0,2,High-Value Loyalists
+CUST0231,35,Male,Lucknow,73560.0,7,2414.0,15473.0,17,0.58,0.34,Electronics,49.0,0,Deal-Driven Shoppers
+CUST0232,24,Male,Pune,46768.0,9,5221.0,44424.0,24,0.39,0.54,Home,69.4,1,At-Risk / Inactive
+CUST0233,18,Female,Lucknow,22655.0,26,3929.0,115819.0,25,0.72,0.19,Fashion,78.2,2,High-Value Loyalists
+CUST0234,49,Male,Delhi NCR,129779.0,20,2527.0,54999.0,75,0.97,0.14,Home,73.0,2,High-Value Loyalists
+CUST0235,32,Male,Mumbai,55793.0,9,1402.0,10774.0,46,0.76,0.06,Electronics,55.1,0,Deal-Driven Shoppers
+CUST0236,21,Male,Delhi NCR,22345.0,7,1751.0,10782.0,47,0.37,0.3,Home,46.1,0,Deal-Driven Shoppers
+CUST0237,33,Male,Mumbai,86163.0,6,3382.0,21479.0,64,0.89,0.06,Electronics,34.9,1,At-Risk / Inactive
+CUST0238,18,Male,Lucknow,111443.0,22,1944.0,38316.0,18,0.47,0.29,Fashion,75.4,2,High-Value Loyalists
+CUST0239,31,Male,Mumbai,75015.0,6,1388.0,7597.0,14,0.6,0.1,Sports,49.8,0,Deal-Driven Shoppers
+CUST0240,43,Female,Pune,105556.0,4,2349.0,10493.0,35,0.92,0.5,Beauty,39.7,0,Deal-Driven Shoppers
+CUST0241,31,Male,Delhi NCR,18000.0,12,2246.0,28214.0,32,0.75,0.41,Fashion,55.9,0,Deal-Driven Shoppers
+CUST0242,38,Female,Mumbai,95679.0,19,1567.0,31642.0,25,0.42,0.49,Beauty,76.8,0,Deal-Driven Shoppers
+CUST0243,40,Male,Delhi NCR,35518.0,10,1638.0,15562.0,32,0.69,0.31,Beauty,55.3,0,Deal-Driven Shoppers
+CUST0244,45,Male,Delhi NCR,141989.0,10,1378.0,14342.0,19,0.51,0.12,Home,54.4,1,At-Risk / Inactive
+CUST0245,27,Male,Pune,81970.0,9,3922.0,30371.0,39,0.48,0.26,Electronics,35.2,1,At-Risk / Inactive
+CUST0246,39,Male,Bengaluru,130283.0,12,2516.0,32854.0,33,0.73,0.15,Electronics,69.7,1,At-Risk / Inactive
+CUST0247,31,Female,Delhi NCR,113705.0,14,3819.0,60093.0,36,0.44,0.08,Beauty,65.5,1,At-Risk / Inactive
+CUST0248,52,Male,Lucknow,18000.0,28,836.0,25603.0,52,0.54,0.58,Home,82.0,0,Deal-Driven Shoppers
+CUST0249,45,Male,Mumbai,108555.0,8,1673.0,14498.0,21,0.54,0.38,Electronics,48.0,0,Deal-Driven Shoppers
+CUST0250,28,Female,Bengaluru,99730.0,7,2263.0,13667.0,42,0.4,0.43,Home,47.0,1,At-Risk / Inactive
+CUST0251,54,Male,Delhi NCR,53172.0,12,300.0,4132.0,33,0.79,0.09,Electronics,66.5,0,Deal-Driven Shoppers
+CUST0252,33,Male,Bengaluru,27773.0,22,2001.0,45652.0,29,0.23,0.06,Fashion,70.4,2,High-Value Loyalists
+CUST0253,25,Female,Bengaluru,129236.0,12,2357.0,31536.0,23,0.65,0.48,Home,62.3,1,At-Risk / Inactive
+CUST0254,33,Male,Bengaluru,85043.0,37,1537.0,50983.0,15,0.51,0.13,Fashion,99.9,2,High-Value Loyalists
+CUST0255,43,Female,Hyderabad,93309.0,7,1787.0,11617.0,12,0.66,0.11,Electronics,48.1,1,At-Risk / Inactive
+CUST0256,27,Male,Pune,70116.0,33,2754.0,89830.0,71,0.68,0.23,Beauty,91.6,2,High-Value Loyalists
+CUST0257,35,Male,Pune,33929.0,10,3924.0,44628.0,39,0.36,0.06,Home,49.7,1,At-Risk / Inactive
+CUST0258,53,Female,Delhi NCR,60480.0,14,4129.0,62030.0,47,0.67,0.37,Beauty,49.1,1,At-Risk / Inactive
+CUST0259,33,Female,Pune,108865.0,25,2781.0,76826.0,24,0.57,0.36,Beauty,84.7,2,High-Value Loyalists
+CUST0260,37,Male,Lucknow,24849.0,4,3263.0,12448.0,21,0.64,0.43,Home,41.6,0,Deal-Driven Shoppers
+CUST0261,37,Female,Pune,117614.0,7,3793.0,23554.0,13,0.54,0.6,Beauty,37.4,1,At-Risk / Inactive
+CUST0262,42,Male,Bengaluru,66487.0,24,300.0,7916.0,44,0.23,0.38,Fashion,83.9,0,Deal-Driven Shoppers
+CUST0263,39,Female,Lucknow,70319.0,33,2548.0,93423.0,36,0.54,0.25,Fashion,100.0,2,High-Value Loyalists
+CUST0264,48,Male,Hyderabad,60027.0,2,1230.0,2094.0,7,0.84,0.27,Fashion,41.8,0,Deal-Driven Shoppers
+CUST0265,39,Male,Mumbai,121020.0,15,4330.0,64067.0,57,0.53,0.31,Fashion,56.2,1,At-Risk / Inactive
+CUST0266,39,Male,Delhi NCR,70202.0,6,3332.0,20195.0,28,0.22,0.39,Home,52.2,1,At-Risk / Inactive
+CUST0267,43,Female,Delhi NCR,95993.0,14,3837.0,58835.0,28,0.84,0.12,Home,66.3,2,High-Value Loyalists
+CUST0268,33,Female,Hyderabad,76336.0,13,2240.0,28131.0,57,0.11,0.5,Electronics,49.3,1,At-Risk / Inactive
+CUST0269,25,Male,Delhi NCR,89181.0,22,3585.0,88598.0,72,0.61,0.29,Fashion,73.0,2,High-Value Loyalists
+CUST0270,18,Female,Lucknow,117397.0,12,1447.0,18125.0,11,0.94,0.55,Electronics,68.3,0,Deal-Driven Shoppers
+CUST0271,32,Male,Mumbai,55647.0,8,2714.0,19344.0,33,0.77,0.55,Fashion,42.8,0,Deal-Driven Shoppers
+CUST0272,35,Female,Lucknow,50273.0,3,2187.0,6881.0,25,0.6,0.63,Home,32.2,0,Deal-Driven Shoppers
+CUST0273,27,Female,Lucknow,102660.0,15,3808.0,58905.0,40,0.74,0.23,Fashion,73.1,2,High-Value Loyalists
+CUST0274,18,Female,Hyderabad,73019.0,14,2866.0,38632.0,80,0.23,0.49,Fashion,46.2,1,At-Risk / Inactive
+CUST0275,31,Female,Hyderabad,82950.0,14,1690.0,20419.0,61,0.36,0.22,Home,48.3,1,At-Risk / Inactive
+CUST0276,26,Female,Lucknow,69157.0,38,4974.0,162334.0,25,0.77,0.56,Electronics,100.0,2,High-Value Loyalists
+CUST0277,51,Male,Mumbai,54589.0,19,1782.0,29219.0,40,0.85,0.26,Home,92.1,2,High-Value Loyalists
+CUST0278,41,Male,Lucknow,81299.0,17,2068.0,32774.0,41,0.06,0.31,Fashion,58.7,1,At-Risk / Inactive
+CUST0279,23,Female,Lucknow,35248.0,10,1338.0,12583.0,29,0.76,0.68,Home,41.9,0,Deal-Driven Shoppers
+CUST0280,42,Male,Bengaluru,55735.0,3,4120.0,12343.0,8,0.7,0.17,Fashion,45.3,1,At-Risk / Inactive
+CUST0281,35,Male,Pune,52034.0,10,1604.0,16716.0,42,0.53,0.62,Beauty,50.1,0,Deal-Driven Shoppers
+CUST0282,18,Male,Delhi NCR,118426.0,6,4158.0,21675.0,10,0.82,0.08,Electronics,55.2,1,At-Risk / Inactive
+CUST0283,36,Female,Delhi NCR,53858.0,12,300.0,3440.0,26,0.9,0.35,Home,49.1,0,Deal-Driven Shoppers
+CUST0284,27,Male,Mumbai,33560.0,9,3897.0,36073.0,105,0.42,0.1,Electronics,41.1,1,At-Risk / Inactive
+CUST0285,35,Male,Mumbai,71350.0,23,3507.0,85300.0,19,0.36,0.47,Fashion,66.3,2,High-Value Loyalists
+CUST0286,57,Male,Pune,127263.0,18,3060.0,49951.0,19,0.17,0.31,Fashion,55.5,1,At-Risk / Inactive
+CUST0287,54,Female,Hyderabad,106439.0,4,2794.0,11144.0,37,0.65,0.31,Fashion,36.9,1,At-Risk / Inactive
+CUST0288,26,Female,Hyderabad,65841.0,8,3493.0,27319.0,25,0.63,0.29,Fashion,60.4,1,At-Risk / Inactive
+CUST0289,60,Female,Delhi NCR,61184.0,10,3036.0,25813.0,28,0.69,0.43,Sports,56.5,0,Deal-Driven Shoppers
+CUST0290,31,Female,Lucknow,77241.0,14,3651.0,47372.0,81,0.63,0.56,Home,53.9,1,At-Risk / Inactive
+CUST0291,36,Female,Lucknow,33258.0,8,2745.0,18978.0,64,0.42,0.5,Sports,34.3,1,At-Risk / Inactive
+CUST0292,42,Female,Hyderabad,47490.0,14,3696.0,56865.0,84,0.47,0.25,Home,62.7,1,At-Risk / Inactive
+CUST0293,25,Female,Bengaluru,80481.0,16,1707.0,28896.0,28,0.46,0.42,Electronics,69.6,0,Deal-Driven Shoppers
+CUST0294,46,Female,Lucknow,31618.0,11,1822.0,18823.0,16,0.79,0.12,Beauty,57.5,0,Deal-Driven Shoppers
+CUST0295,37,Male,Delhi NCR,101869.0,6,2271.0,15358.0,68,0.87,0.27,Electronics,45.2,1,At-Risk / Inactive
+CUST0296,53,Female,Delhi NCR,38218.0,21,1545.0,32180.0,53,0.45,0.13,Fashion,74.2,2,High-Value Loyalists
+CUST0297,32,Male,Delhi NCR,87478.0,13,2724.0,40696.0,52,0.7,0.32,Fashion,58.8,1,At-Risk / Inactive
+CUST0298,38,Female,Lucknow,76583.0,9,2799.0,24453.0,33,0.36,0.16,Beauty,40.5,1,At-Risk / Inactive
+CUST0299,31,Male,Bengaluru,135210.0,16,778.0,11891.0,48,0.86,0.26,Home,73.0,0,Deal-Driven Shoppers
+CUST0300,27,Male,Lucknow,18000.0,17,2046.0,33371.0,100,0.26,0.14,Electronics,44.7,1,At-Risk / Inactive
+CUST0301,32,Female,Bengaluru,105128.0,17,300.0,5070.0,11,0.89,0.46,Home,72.3,0,Deal-Driven Shoppers
+CUST0302,37,Female,Hyderabad,48046.0,17,4772.0,70456.0,15,0.9,0.57,Sports,71.2,2,High-Value Loyalists
+CUST0303,41,Male,Hyderabad,101147.0,16,3938.0,69520.0,10,0.46,0.58,Fashion,57.8,2,High-Value Loyalists
+CUST0304,29,Male,Delhi NCR,80442.0,6,2691.0,15251.0,21,0.43,0.17,Fashion,38.0,1,At-Risk / Inactive
+CUST0305,34,Male,Hyderabad,61942.0,14,2553.0,30494.0,70,0.23,0.14,Fashion,49.0,1,At-Risk / Inactive
+CUST0306,18,Female,Delhi NCR,111789.0,20,5364.0,120143.0,47,0.82,0.48,Electronics,66.3,2,High-Value Loyalists
+CUST0307,38,Male,Bengaluru,49823.0,32,2690.0,77577.0,7,0.76,0.46,Sports,95.2,2,High-Value Loyalists
+CUST0308,29,Female,Pune,63051.0,11,2930.0,34892.0,43,0.3,0.48,Electronics,59.8,1,At-Risk / Inactive
+CUST0309,32,Female,Hyderabad,67883.0,7,2948.0,18880.0,38,0.59,0.06,Home,48.1,1,At-Risk / Inactive
+CUST0310,44,Male,Hyderabad,66507.0,15,1531.0,22522.0,31,0.52,0.34,Sports,61.7,0,Deal-Driven Shoppers
+CUST0311,53,Female,Pune,101242.0,15,1344.0,20307.0,45,0.29,0.58,Home,62.7,0,Deal-Driven Shoppers
+CUST0312,21,Female,Pune,87491.0,11,3006.0,33843.0,28,0.76,0.16,Sports,57.9,1,At-Risk / Inactive
+CUST0313,38,Female,Delhi NCR,115549.0,11,3277.0,37419.0,34,0.65,0.16,Beauty,53.5,1,At-Risk / Inactive
+CUST0314,27,Female,Pune,85330.0,23,617.0,15999.0,33,0.39,0.2,Fashion,71.1,0,Deal-Driven Shoppers
+CUST0315,42,Female,Mumbai,61259.0,8,3931.0,30272.0,25,0.69,0.43,Home,35.5,1,At-Risk / Inactive
+CUST0316,23,Female,Mumbai,52550.0,12,1721.0,23736.0,30,0.44,0.5,Fashion,39.1,0,Deal-Driven Shoppers
+CUST0317,18,Female,Lucknow,78390.0,19,3180.0,60991.0,81,0.2,0.26,Home,64.9,2,High-Value Loyalists
+CUST0318,18,Female,Hyderabad,52329.0,14,1447.0,18366.0,16,0.86,0.38,Beauty,63.0,0,Deal-Driven Shoppers
+CUST0319,44,Female,Hyderabad,93356.0,16,1152.0,15673.0,84,0.8,0.39,Beauty,65.8,0,Deal-Driven Shoppers
+CUST0320,38,Female,Lucknow,67239.0,25,960.0,26847.0,9,0.57,0.06,Electronics,83.6,2,High-Value Loyalists
+CUST0321,47,Male,Hyderabad,122425.0,10,3091.0,32509.0,90,0.6,0.35,Electronics,30.2,1,At-Risk / Inactive
+CUST0322,30,Female,Bengaluru,61117.0,13,1352.0,15549.0,73,0.74,0.16,Sports,58.3,0,Deal-Driven Shoppers
+CUST0323,38,Female,Mumbai,77329.0,34,3852.0,112362.0,27,0.76,0.49,Electronics,97.1,2,High-Value Loyalists
+CUST0324,48,Female,Pune,34215.0,22,3016.0,67396.0,47,0.66,0.32,Sports,70.9,2,High-Value Loyalists
+CUST0325,25,Male,Lucknow,35189.0,9,2089.0,18782.0,44,0.48,0.13,Home,38.9,1,At-Risk / Inactive
+CUST0326,36,Female,Pune,84957.0,9,3618.0,36521.0,43,0.71,0.21,Fashion,49.2,1,At-Risk / Inactive
+CUST0327,49,Female,Hyderabad,122159.0,5,1880.0,10299.0,14,0.93,0.43,Sports,44.8,0,Deal-Driven Shoppers
+CUST0328,33,Male,Delhi NCR,64027.0,21,1929.0,42749.0,88,0.11,0.46,Sports,52.0,1,At-Risk / Inactive
+CUST0329,51,Female,Delhi NCR,57282.0,5,2030.0,11051.0,29,0.46,0.67,Sports,41.4,0,Deal-Driven Shoppers
+CUST0330,33,Male,Lucknow,84585.0,6,3574.0,23846.0,19,0.3,0.1,Beauty,55.5,1,At-Risk / Inactive
+CUST0331,36,Female,Pune,71975.0,8,4357.0,37490.0,105,0.24,0.33,Home,31.1,1,At-Risk / Inactive
+CUST0332,40,Female,Hyderabad,64367.0,10,537.0,5246.0,50,0.55,0.63,Electronics,40.3,0,Deal-Driven Shoppers
+CUST0333,34,Male,Lucknow,82306.0,18,1075.0,17341.0,18,0.56,0.04,Electronics,76.0,0,Deal-Driven Shoppers
+CUST0334,32,Female,Pune,53293.0,2,1254.0,2786.0,47,0.59,0.56,Fashion,37.7,0,Deal-Driven Shoppers
+CUST0335,18,Other,Delhi NCR,123545.0,3,5423.0,17566.0,12,0.64,0.25,Beauty,31.6,1,At-Risk / Inactive
+CUST0336,26,Female,Hyderabad,105128.0,15,3586.0,51749.0,29,0.82,0.54,Electronics,49.3,1,At-Risk / Inactive
+CUST0337,53,Male,Hyderabad,59827.0,14,692.0,10212.0,28,0.72,0.38,Beauty,61.5,0,Deal-Driven Shoppers
+CUST0338,39,Female,Mumbai,21679.0,5,4237.0,24321.0,53,0.39,0.4,Fashion,32.1,1,At-Risk / Inactive
+CUST0339,26,Female,Mumbai,68598.0,34,2105.0,71903.0,74,0.44,0.19,Beauty,100.0,2,High-Value Loyalists
+CUST0340,18,Female,Hyderabad,57891.0,9,2978.0,26574.0,10,0.29,0.38,Electronics,45.4,1,At-Risk / Inactive
+CUST0341,44,Female,Delhi NCR,18000.0,18,3050.0,48042.0,5,0.52,0.11,Fashion,64.3,2,High-Value Loyalists
+CUST0342,28,Male,Mumbai,31827.0,14,2659.0,33823.0,24,0.67,0.53,Home,62.9,0,Deal-Driven Shoppers
+CUST0343,26,Male,Mumbai,105551.0,8,3837.0,29714.0,51,0.41,0.29,Sports,45.9,1,At-Risk / Inactive
+CUST0344,36,Male,Hyderabad,75670.0,9,1997.0,19093.0,44,0.61,0.5,Electronics,48.0,0,Deal-Driven Shoppers
+CUST0345,33,Female,Pune,83256.0,17,1684.0,31373.0,36,0.74,0.31,Electronics,57.1,0,Deal-Driven Shoppers
+CUST0346,29,Female,Delhi NCR,45507.0,5,3704.0,16408.0,57,0.83,0.3,Sports,48.7,1,At-Risk / Inactive
+CUST0347,37,Male,Hyderabad,81515.0,3,2035.0,6071.0,71,0.69,0.21,Electronics,37.4,1,At-Risk / Inactive
+CUST0348,44,Female,Hyderabad,46869.0,9,2624.0,20250.0,11,0.64,0.28,Fashion,61.9,0,Deal-Driven Shoppers
+CUST0349,18,Male,Mumbai,91906.0,7,823.0,6478.0,20,0.69,0.48,Fashion,38.8,0,Deal-Driven Shoppers
+CUST0350,48,Female,Lucknow,41060.0,8,1686.0,14884.0,22,0.67,0.55,Home,54.5,0,Deal-Driven Shoppers
+CUST0351,48,Female,Delhi NCR,18000.0,7,2026.0,13729.0,72,0.49,0.45,Beauty,26.3,0,Deal-Driven Shoppers
+CUST0352,43,Male,Bengaluru,71526.0,9,3242.0,27124.0,22,0.86,0.07,Home,48.2,1,At-Risk / Inactive
+CUST0353,21,Male,Bengaluru,72191.0,18,3343.0,56205.0,6,0.5,0.02,Beauty,65.4,2,High-Value Loyalists
+CUST0354,39,Female,Pune,62511.0,12,2022.0,21741.0,32,0.77,0.29,Fashion,67.2,0,Deal-Driven Shoppers
+CUST0355,40,Female,Delhi NCR,73966.0,33,1056.0,30414.0,32,0.2,0.12,Fashion,89.6,2,High-Value Loyalists
+CUST0356,22,Female,Bengaluru,18039.0,13,2174.0,29945.0,7,0.51,0.57,Sports,61.2,0,Deal-Driven Shoppers
+CUST0357,20,Male,Delhi NCR,71043.0,10,3170.0,35506.0,37,0.73,0.29,Home,52.5,1,At-Risk / Inactive
+CUST0358,28,Male,Delhi NCR,62872.0,14,2156.0,31208.0,14,0.78,0.43,Fashion,49.5,0,Deal-Driven Shoppers
+CUST0359,35,Male,Hyderabad,84073.0,23,3096.0,60637.0,25,0.82,0.24,Sports,93.4,2,High-Value Loyalists
+CUST0360,32,Female,Hyderabad,118425.0,8,1816.0,13801.0,35,0.17,0.23,Beauty,26.0,1,At-Risk / Inactive
+CUST0361,26,Female,Lucknow,71509.0,23,653.0,13945.0,53,0.16,0.39,Home,74.5,0,Deal-Driven Shoppers
+CUST0362,21,Male,Pune,110171.0,15,300.0,4208.0,29,0.58,0.18,Beauty,54.5,0,Deal-Driven Shoppers
+CUST0363,18,Male,Pune,58347.0,41,1141.0,42844.0,21,0.54,0.5,Beauty,100.0,2,High-Value Loyalists
+CUST0364,35,Other,Delhi NCR,74133.0,17,2026.0,38708.0,42,0.64,0.25,Fashion,61.7,0,Deal-Driven Shoppers
+CUST0365,46,Male,Bengaluru,66477.0,13,1860.0,25682.0,42,0.84,0.25,Home,56.4,0,Deal-Driven Shoppers
+CUST0366,25,Female,Mumbai,18971.0,20,1198.0,25672.0,61,0.81,0.72,Electronics,76.7,0,Deal-Driven Shoppers
+CUST0367,47,Female,Mumbai,97085.0,23,2386.0,62840.0,58,0.5,0.19,Beauty,70.5,2,High-Value Loyalists
+CUST0368,57,Female,Mumbai,116404.0,6,3141.0,16879.0,51,0.74,0.69,Fashion,42.6,1,At-Risk / Inactive
+CUST0369,40,Female,Delhi NCR,99543.0,26,3084.0,88287.0,24,0.81,0.04,Sports,94.4,2,High-Value Loyalists
+CUST0370,48,Male,Lucknow,75225.0,22,2189.0,51745.0,47,0.64,0.19,Home,68.4,2,High-Value Loyalists
+CUST0371,38,Female,Delhi NCR,99004.0,20,1783.0,37134.0,30,0.56,0.35,Electronics,60.7,0,Deal-Driven Shoppers
+CUST0372,28,Female,Lucknow,66873.0,10,3104.0,31599.0,25,0.69,0.3,Beauty,43.6,1,At-Risk / Inactive
+CUST0373,27,Female,Bengaluru,18000.0,25,1874.0,49043.0,51,0.55,0.21,Fashion,73.0,2,High-Value Loyalists
+CUST0374,32,Female,Mumbai,90159.0,12,2744.0,37225.0,23,0.48,0.02,Beauty,53.6,1,At-Risk / Inactive
+CUST0375,29,Male,Hyderabad,18000.0,14,767.0,9790.0,21,0.42,0.34,Beauty,60.4,0,Deal-Driven Shoppers
+CUST0376,29,Male,Pune,102721.0,11,2266.0,26329.0,25,0.66,0.37,Home,46.8,1,At-Risk / Inactive
+CUST0377,20,Female,Hyderabad,73744.0,4,2737.0,10496.0,146,0.23,0.13,Beauty,9.7,1,At-Risk / Inactive
+CUST0378,33,Female,Pune,75195.0,6,2151.0,11886.0,21,0.13,0.07,Electronics,33.3,1,At-Risk / Inactive
+CUST0379,27,Male,Mumbai,83094.0,16,2479.0,45018.0,8,0.64,0.28,Beauty,74.9,2,High-Value Loyalists
+CUST0380,46,Male,Lucknow,40319.0,11,2150.0,26384.0,45,0.35,0.24,Beauty,56.1,1,At-Risk / Inactive
+CUST0381,44,Male,Delhi NCR,84025.0,8,2661.0,21572.0,12,0.54,0.14,Sports,47.4,1,At-Risk / Inactive
+CUST0382,62,Male,Delhi NCR,74414.0,15,1748.0,27974.0,25,0.43,0.48,Sports,44.1,0,Deal-Driven Shoppers
+CUST0383,18,Female,Delhi NCR,115437.0,26,2531.0,60000.0,65,0.46,0.06,Fashion,72.9,2,High-Value Loyalists
+CUST0384,36,Female,Mumbai,74018.0,11,1786.0,17939.0,13,0.45,0.23,Electronics,42.0,1,At-Risk / Inactive
+CUST0385,36,Female,Delhi NCR,97056.0,13,3119.0,35303.0,30,0.28,0.38,Fashion,61.3,1,At-Risk / Inactive
+CUST0386,40,Female,Delhi NCR,87942.0,23,968.0,24288.0,46,0.66,0.36,Electronics,71.6,0,Deal-Driven Shoppers
+CUST0387,23,Male,Hyderabad,90884.0,10,4221.0,44166.0,18,0.7,0.22,Sports,50.3,1,At-Risk / Inactive
+CUST0388,18,Male,Mumbai,133860.0,4,3009.0,11236.0,61,0.93,0.31,Electronics,28.3,1,At-Risk / Inactive
+CUST0389,29,Female,Mumbai,76833.0,6,2789.0,14332.0,46,0.13,0.14,Sports,24.5,1,At-Risk / Inactive
+CUST0390,62,Male,Delhi NCR,35419.0,37,2922.0,101886.0,14,0.57,0.4,Home,100.0,2,High-Value Loyalists
+CUST0391,47,Female,Pune,92327.0,13,1562.0,22434.0,18,0.42,0.44,Electronics,64.1,0,Deal-Driven Shoppers
+CUST0392,35,Female,Bengaluru,84658.0,5,1289.0,5491.0,20,0.77,0.09,Beauty,37.4,0,Deal-Driven Shoppers
+CUST0393,33,Female,Delhi NCR,46831.0,4,4049.0,14206.0,42,0.33,0.19,Beauty,39.6,1,At-Risk / Inactive
+CUST0394,36,Male,Bengaluru,69311.0,10,1781.0,19523.0,12,0.66,0.07,Sports,50.4,0,Deal-Driven Shoppers
+CUST0395,41,Male,Lucknow,86109.0,21,1365.0,32336.0,26,0.46,0.05,Beauty,74.9,2,High-Value Loyalists
+CUST0396,23,Male,Bengaluru,107806.0,40,768.0,31083.0,79,0.9,0.36,Electronics,100.0,2,High-Value Loyalists
+CUST0397,45,Female,Mumbai,85576.0,21,2345.0,46692.0,10,0.48,0.61,Fashion,95.2,2,High-Value Loyalists
+CUST0398,27,Female,Lucknow,67527.0,34,852.0,28165.0,11,0.66,0.34,Fashion,100.0,2,High-Value Loyalists
+CUST0399,31,Male,Pune,24202.0,14,1482.0,21285.0,24,0.18,0.16,Home,45.6,0,Deal-Driven Shoppers
+CUST0400,50,Female,Bengaluru,94723.0,13,2296.0,29074.0,15,0.63,0.06,Home,66.7,1,At-Risk / Inactive
+CUST0401,46,Male,Lucknow,18000.0,16,3068.0,49216.0,42,0.26,0.87,Home,45.8,0,Deal-Driven Shoppers
+CUST0402,25,Male,Mumbai,70160.0,6,1890.0,10026.0,13,0.58,0.38,Home,45.0,0,Deal-Driven Shoppers
+CUST0403,18,Female,Mumbai,59019.0,26,1786.0,45619.0,10,0.6,0.11,Electronics,96.8,2,High-Value Loyalists
+CUST0404,45,Male,Hyderabad,77728.0,43,2620.0,103678.0,24,0.24,0.15,Home,100.0,2,High-Value Loyalists
+CUST0405,44,Female,Delhi NCR,75024.0,12,2859.0,35882.0,15,0.55,0.53,Home,67.5,0,Deal-Driven Shoppers
+CUST0406,18,Male,Bengaluru,61746.0,30,2701.0,91487.0,52,0.6,0.34,Home,88.7,2,High-Value Loyalists
+CUST0407,20,Female,Bengaluru,64805.0,15,3666.0,49347.0,69,0.21,0.17,Beauty,57.3,1,At-Risk / Inactive
+CUST0408,28,Female,Hyderabad,68348.0,35,3254.0,111854.0,40,0.12,0.18,Beauty,99.3,2,High-Value Loyalists
+CUST0409,39,Female,Bengaluru,54107.0,3,2669.0,8673.0,54,0.55,0.52,Electronics,23.9,1,At-Risk / Inactive
+CUST0410,31,Female,Delhi NCR,47220.0,13,3514.0,45115.0,17,0.3,0.35,Beauty,55.6,1,At-Risk / Inactive
+CUST0411,31,Female,Bengaluru,54127.0,2,2232.0,4667.0,30,0.52,0.22,Fashion,15.5,1,At-Risk / Inactive
+CUST0412,29,Male,Pune,69977.0,7,3355.0,20653.0,80,0.77,0.32,Fashion,43.0,1,At-Risk / Inactive
+CUST0413,31,Male,Delhi NCR,60974.0,13,3216.0,44364.0,49,0.77,0.4,Electronics,70.3,0,Deal-Driven Shoppers
+CUST0414,41,Male,Bengaluru,24220.0,21,494.0,10909.0,3,0.26,0.29,Home,75.9,0,Deal-Driven Shoppers
+CUST0415,34,Male,Mumbai,79373.0,20,1765.0,32663.0,16,0.79,0.8,Fashion,69.2,0,Deal-Driven Shoppers
+CUST0416,43,Male,Delhi NCR,84885.0,7,983.0,6391.0,37,0.67,0.39,Electronics,37.0,0,Deal-Driven Shoppers
+CUST0417,23,Female,Hyderabad,21298.0,10,1587.0,15840.0,6,0.36,0.26,Home,52.5,0,Deal-Driven Shoppers
+CUST0418,44,Female,Bengaluru,85008.0,10,4023.0,36824.0,17,0.78,0.13,Sports,52.9,1,At-Risk / Inactive
+CUST0419,34,Female,Bengaluru,71494.0,5,3007.0,14279.0,17,0.91,0.36,Fashion,47.7,0,Deal-Driven Shoppers
+CUST0420,45,Female,Lucknow,105432.0,33,1554.0,56488.0,12,0.81,0.58,Beauty,100.0,2,High-Value Loyalists
+CUST0421,30,Male,Mumbai,73181.0,4,3239.0,14156.0,47,0.33,0.28,Beauty,39.1,1,At-Risk / Inactive
+CUST0422,32,Female,Mumbai,69509.0,7,2649.0,21159.0,25,0.4,0.57,Home,35.2,1,At-Risk / Inactive
+CUST0423,23,Female,Pune,87253.0,43,3318.0,124133.0,59,0.81,0.22,Home,100.0,2,High-Value Loyalists
+CUST0424,40,Female,Mumbai,82813.0,11,2839.0,30715.0,74,0.95,0.43,Fashion,56.7,0,Deal-Driven Shoppers
+CUST0425,42,Male,Hyderabad,61875.0,20,4747.0,108737.0,9,0.68,0.14,Beauty,82.3,2,High-Value Loyalists
+CUST0426,29,Female,Delhi NCR,88697.0,14,3463.0,53968.0,43,0.43,0.3,Electronics,55.9,1,At-Risk / Inactive
+CUST0427,31,Male,Bengaluru,112439.0,10,3308.0,33287.0,45,0.66,0.3,Beauty,47.4,1,At-Risk / Inactive
+CUST0428,31,Male,Lucknow,106218.0,11,4004.0,37895.0,15,0.57,0.28,Electronics,50.8,1,At-Risk / Inactive
+CUST0429,39,Female,Lucknow,79506.0,18,300.0,5807.0,8,0.48,0.13,Electronics,47.2,0,Deal-Driven Shoppers
+CUST0430,31,Female,Hyderabad,76389.0,18,864.0,14772.0,36,0.44,0.15,Fashion,57.9,0,Deal-Driven Shoppers
+CUST0431,18,Female,Bengaluru,62362.0,9,2421.0,24135.0,40,0.49,0.32,Electronics,39.6,1,At-Risk / Inactive
+CUST0432,18,Female,Delhi NCR,57054.0,15,2814.0,46818.0,17,0.62,0.23,Beauty,53.6,1,At-Risk / Inactive
+CUST0433,32,Female,Mumbai,64201.0,1,2832.0,2742.0,10,0.59,0.13,Electronics,33.9,1,At-Risk / Inactive
+CUST0434,41,Male,Lucknow,18000.0,5,1955.0,8993.0,63,0.53,0.48,Electronics,55.6,0,Deal-Driven Shoppers
+CUST0435,43,Female,Hyderabad,98175.0,20,1916.0,40780.0,61,0.47,0.44,Home,64.2,0,Deal-Driven Shoppers
+CUST0436,27,Male,Bengaluru,72515.0,29,1190.0,33811.0,14,0.3,0.28,Fashion,90.6,2,High-Value Loyalists
+CUST0437,40,Male,Pune,84689.0,28,3943.0,96813.0,57,0.47,0.22,Fashion,97.9,2,High-Value Loyalists
+CUST0438,35,Female,Bengaluru,64975.0,12,1916.0,23738.0,36,0.94,0.16,Sports,42.4,0,Deal-Driven Shoppers
+CUST0439,30,Male,Bengaluru,45582.0,23,2605.0,54279.0,21,0.38,0.31,Electronics,90.1,2,High-Value Loyalists
+CUST0440,23,Female,Hyderabad,77578.0,19,1955.0,39845.0,26,0.58,0.36,Beauty,87.4,2,High-Value Loyalists
+CUST0441,31,Male,Pune,52678.0,10,2050.0,22468.0,19,0.43,0.24,Electronics,53.7,0,Deal-Driven Shoppers
+CUST0442,28,Female,Lucknow,35966.0,10,1325.0,11733.0,96,0.79,0.16,Electronics,44.5,0,Deal-Driven Shoppers
+CUST0443,36,Male,Mumbai,21160.0,18,948.0,15438.0,42,0.05,0.63,Electronics,45.4,0,Deal-Driven Shoppers
+CUST0444,34,Male,Pune,42348.0,8,3738.0,30626.0,41,0.4,0.33,Fashion,45.6,1,At-Risk / Inactive
+CUST0445,36,Female,Lucknow,140214.0,15,2810.0,43041.0,65,0.78,0.47,Home,67.1,1,At-Risk / Inactive
+CUST0446,44,Female,Hyderabad,56740.0,6,2168.0,11264.0,43,0.62,0.47,Electronics,36.0,0,Deal-Driven Shoppers
+CUST0447,63,Female,Bengaluru,85345.0,12,2370.0,24892.0,7,0.84,0.53,Sports,49.7,0,Deal-Driven Shoppers
+CUST0448,56,Female,Delhi NCR,39801.0,8,1849.0,14489.0,45,0.74,0.16,Beauty,37.7,0,Deal-Driven Shoppers
+CUST0449,41,Female,Hyderabad,94827.0,11,2881.0,30403.0,57,0.63,0.14,Electronics,41.9,1,At-Risk / Inactive
+CUST0450,48,Male,Lucknow,44458.0,12,2384.0,30965.0,13,0.34,0.12,Fashion,50.5,1,At-Risk / Inactive
+CUST0451,22,Male,Hyderabad,136298.0,3,4043.0,13403.0,11,0.69,0.53,Electronics,28.3,1,At-Risk / Inactive
+CUST0452,39,Male,Bengaluru,95830.0,5,1178.0,6295.0,54,0.76,0.32,Electronics,38.6,0,Deal-Driven Shoppers
+CUST0453,18,Female,Hyderabad,104854.0,14,3863.0,61287.0,17,0.76,0.67,Sports,58.6,2,High-Value Loyalists
+CUST0454,26,Male,Pune,31749.0,7,300.0,2147.0,66,0.88,0.04,Fashion,48.0,0,Deal-Driven Shoppers
+CUST0455,18,Other,Mumbai,62867.0,19,1234.0,21454.0,14,0.46,0.32,Fashion,79.1,0,Deal-Driven Shoppers
+CUST0456,34,Female,Hyderabad,48688.0,7,2087.0,15790.0,25,0.81,0.23,Electronics,42.9,0,Deal-Driven Shoppers
+CUST0457,51,Female,Mumbai,94164.0,30,1052.0,33286.0,54,0.1,0.33,Fashion,81.3,2,High-Value Loyalists
+CUST0458,32,Female,Mumbai,47006.0,11,2112.0,23185.0,107,0.43,0.14,Home,48.3,1,At-Risk / Inactive
+CUST0459,39,Female,Delhi NCR,122674.0,29,2269.0,60853.0,21,0.62,0.42,Beauty,96.6,2,High-Value Loyalists
+CUST0460,49,Male,Lucknow,78126.0,11,1863.0,22514.0,23,0.66,0.36,Home,50.8,0,Deal-Driven Shoppers
+CUST0461,48,Female,Pune,34171.0,4,4873.0,21486.0,4,0.83,0.05,Sports,49.1,1,At-Risk / Inactive
+CUST0462,27,Female,Mumbai,82577.0,22,2360.0,49065.0,60,0.73,0.27,Electronics,69.8,2,High-Value Loyalists
+CUST0463,29,Female,Mumbai,50278.0,30,300.0,7928.0,26,0.82,0.15,Fashion,100.0,2,High-Value Loyalists
+CUST0464,34,Female,Hyderabad,78208.0,9,1590.0,15484.0,141,0.17,0.34,Fashion,23.3,1,At-Risk / Inactive
+CUST0465,31,Male,Pune,87936.0,10,300.0,2733.0,12,0.33,0.28,Fashion,36.6,0,Deal-Driven Shoppers
+CUST0466,34,Male,Delhi NCR,65866.0,21,3038.0,55556.0,46,0.56,0.52,Sports,75.6,2,High-Value Loyalists
+CUST0467,18,Female,Mumbai,49085.0,15,4469.0,60009.0,3,0.39,0.21,Sports,53.4,1,At-Risk / Inactive
+CUST0468,40,Male,Lucknow,99509.0,9,2019.0,15929.0,47,0.31,0.13,Beauty,47.0,1,At-Risk / Inactive
+CUST0469,23,Male,Delhi NCR,19719.0,9,300.0,2773.0,25,0.81,0.58,Beauty,52.8,0,Deal-Driven Shoppers
+CUST0470,18,Male,Lucknow,135283.0,1,4508.0,4254.0,41,0.55,0.38,Beauty,20.0,1,At-Risk / Inactive
+CUST0471,29,Male,Mumbai,60132.0,20,300.0,6224.0,12,0.67,0.25,Home,86.7,0,Deal-Driven Shoppers
+CUST0472,39,Male,Mumbai,80738.0,37,1093.0,38203.0,12,0.77,0.51,Beauty,100.0,2,High-Value Loyalists
+CUST0473,34,Female,Delhi NCR,66959.0,21,780.0,16958.0,54,0.47,0.33,Home,76.7,0,Deal-Driven Shoppers
+CUST0474,19,Male,Hyderabad,75263.0,45,2726.0,111831.0,5,0.43,0.49,Fashion,100.0,2,High-Value Loyalists
+CUST0475,51,Male,Hyderabad,76259.0,4,1530.0,5269.0,24,0.64,0.5,Fashion,28.8,0,Deal-Driven Shoppers
+CUST0476,45,Male,Lucknow,76609.0,21,2548.0,52134.0,29,0.55,0.17,Electronics,73.2,2,High-Value Loyalists
+CUST0477,36,Male,Mumbai,111680.0,24,2099.0,53692.0,25,0.32,0.3,Home,82.1,2,High-Value Loyalists
+CUST0478,46,Female,Pune,69088.0,33,2396.0,70497.0,28,0.6,0.12,Electronics,100.0,2,High-Value Loyalists
+CUST0479,23,Male,Pune,114168.0,21,2436.0,55316.0,33,0.54,0.49,Electronics,85.6,2,High-Value Loyalists
+CUST0480,31,Female,Bengaluru,18000.0,30,901.0,30533.0,17,0.55,0.33,Home,90.3,2,High-Value Loyalists
+CUST0481,44,Male,Mumbai,102733.0,18,2010.0,41376.0,15,0.8,0.11,Beauty,63.0,2,High-Value Loyalists
+CUST0482,19,Male,Lucknow,116875.0,9,1284.0,9902.0,70,0.37,0.24,Fashion,48.8,1,At-Risk / Inactive
+CUST0483,29,Female,Delhi NCR,30327.0,10,3835.0,40183.0,9,0.68,0.42,Home,53.4,0,Deal-Driven Shoppers
+CUST0484,43,Male,Mumbai,108618.0,21,1904.0,36952.0,26,0.62,0.65,Beauty,69.4,0,Deal-Driven Shoppers
+CUST0485,28,Female,Delhi NCR,91855.0,6,717.0,3934.0,27,0.61,0.7,Sports,35.6,0,Deal-Driven Shoppers
+CUST0486,58,Female,Pune,107565.0,8,3754.0,27666.0,33,0.64,0.43,Sports,37.9,1,At-Risk / Inactive
+CUST0487,18,Female,Delhi NCR,55231.0,8,2885.0,20689.0,17,0.55,0.14,Fashion,46.1,1,At-Risk / Inactive
+CUST0488,32,Male,Bengaluru,45937.0,8,3673.0,26478.0,8,0.84,0.35,Electronics,45.9,0,Deal-Driven Shoppers
+CUST0489,41,Male,Bengaluru,50774.0,16,1929.0,31089.0,33,0.97,0.2,Sports,49.5,0,Deal-Driven Shoppers
+CUST0490,18,Male,Bengaluru,87517.0,1,1014.0,1139.0,69,0.25,0.23,Electronics,0.0,1,At-Risk / Inactive
+CUST0491,46,Male,Hyderabad,59414.0,12,300.0,3887.0,28,0.51,0.54,Fashion,60.3,0,Deal-Driven Shoppers
+CUST0492,33,Female,Mumbai,54469.0,23,300.0,6716.0,9,0.39,0.44,Sports,83.4,0,Deal-Driven Shoppers
+CUST0493,45,Female,Mumbai,74516.0,9,2404.0,19791.0,7,0.92,0.71,Home,48.9,0,Deal-Driven Shoppers
+CUST0494,26,Female,Pune,35401.0,25,1810.0,50846.0,18,0.53,0.66,Sports,83.6,2,High-Value Loyalists
+CUST0495,31,Male,Pune,18000.0,13,1533.0,18818.0,65,0.37,0.22,Beauty,32.8,0,Deal-Driven Shoppers
+CUST0496,20,Male,Delhi NCR,18000.0,6,2496.0,13440.0,46,0.76,0.06,Beauty,39.9,0,Deal-Driven Shoppers
+CUST0497,32,Male,Hyderabad,131156.0,13,3533.0,43528.0,31,0.85,0.52,Home,60.8,1,At-Risk / Inactive
+CUST0498,68,Male,Lucknow,83999.0,9,3406.0,30637.0,80,0.54,0.05,Home,51.1,1,At-Risk / Inactive
+CUST0499,53,Female,Pune,129446.0,12,1471.0,19695.0,82,0.62,0.35,Home,45.0,1,At-Risk / Inactive
+CUST0500,43,Female,Lucknow,55401.0,12,924.0,10104.0,44,0.74,0.42,Electronics,69.2,0,Deal-Driven Shoppers
+CUST0501,25,Male,Bengaluru,68783.0,24,1912.0,48822.0,38,0.32,0.65,Sports,89.3,2,High-Value Loyalists
+CUST0502,47,Female,Lucknow,110757.0,8,3304.0,30056.0,10,0.61,0.58,Home,53.1,1,At-Risk / Inactive
+CUST0503,39,Female,Pune,165253.0,7,1874.0,13988.0,13,0.59,0.06,Fashion,30.7,1,At-Risk / Inactive
+CUST0504,18,Male,Hyderabad,66836.0,17,2667.0,46438.0,63,0.75,0.07,Beauty,75.1,2,High-Value Loyalists
+CUST0505,48,Male,Lucknow,35101.0,9,3334.0,30174.0,14,0.95,0.05,Sports,57.3,0,Deal-Driven Shoppers
+CUST0506,29,Male,Pune,18000.0,10,3570.0,30952.0,8,0.59,0.77,Home,55.4,0,Deal-Driven Shoppers
+CUST0507,24,Male,Lucknow,106347.0,10,1766.0,15367.0,41,0.8,0.45,Fashion,57.5,0,Deal-Driven Shoppers
+CUST0508,41,Male,Hyderabad,44162.0,17,1338.0,23778.0,32,0.45,0.15,Fashion,78.1,0,Deal-Driven Shoppers
+CUST0509,39,Male,Delhi NCR,73955.0,30,2771.0,71974.0,32,0.27,0.27,Home,91.0,2,High-Value Loyalists
+CUST0510,52,Male,Hyderabad,67887.0,13,2542.0,34296.0,39,0.32,0.39,Electronics,51.1,1,At-Risk / Inactive
+CUST0511,19,Male,Pune,39624.0,9,817.0,7146.0,150,0.8,0.2,Sports,47.5,0,Deal-Driven Shoppers
+CUST0512,30,Female,Pune,79914.0,10,2683.0,24835.0,42,0.51,0.11,Electronics,40.3,1,At-Risk / Inactive
+CUST0513,18,Female,Mumbai,67428.0,16,1962.0,34557.0,6,0.17,0.25,Fashion,71.1,1,At-Risk / Inactive
+CUST0514,24,Female,Lucknow,93923.0,28,1931.0,46191.0,32,0.49,0.57,Fashion,77.3,2,High-Value Loyalists
+CUST0515,34,Female,Lucknow,102839.0,25,4312.0,95701.0,19,0.85,0.48,Electronics,86.4,2,High-Value Loyalists
+CUST0516,43,Female,Hyderabad,61931.0,17,3283.0,62579.0,42,0.22,0.33,Beauty,61.1,1,At-Risk / Inactive
+CUST0517,59,Male,Pune,107213.0,7,1642.0,12402.0,59,0.46,0.08,Electronics,34.1,1,At-Risk / Inactive
+CUST0518,33,Male,Mumbai,76455.0,15,3269.0,44273.0,73,0.67,0.16,Electronics,63.2,1,At-Risk / Inactive
+CUST0519,39,Female,Hyderabad,68348.0,23,2504.0,51375.0,51,0.79,0.38,Beauty,74.2,2,High-Value Loyalists
+CUST0520,49,Female,Hyderabad,74407.0,8,4554.0,40455.0,68,0.32,0.66,Electronics,40.3,1,At-Risk / Inactive
+CUST0521,20,Female,Mumbai,77866.0,13,3066.0,41295.0,20,0.66,0.02,Sports,48.5,1,At-Risk / Inactive
+CUST0522,20,Male,Bengaluru,44904.0,17,2714.0,46228.0,17,0.85,0.25,Electronics,70.1,2,High-Value Loyalists
+CUST0523,36,Male,Pune,64529.0,19,2100.0,43690.0,48,0.66,0.54,Electronics,68.0,0,Deal-Driven Shoppers
+CUST0524,42,Female,Pune,83488.0,9,2114.0,20872.0,25,0.48,0.26,Electronics,58.8,1,At-Risk / Inactive
+CUST0525,37,Male,Delhi NCR,106653.0,5,2455.0,12855.0,32,0.12,0.63,Sports,43.9,1,At-Risk / Inactive
+CUST0526,28,Male,Bengaluru,55718.0,11,2760.0,29930.0,31,0.92,0.15,Electronics,66.8,0,Deal-Driven Shoppers
+CUST0527,45,Female,Delhi NCR,62578.0,6,2450.0,15775.0,30,0.94,0.24,Electronics,41.2,0,Deal-Driven Shoppers
+CUST0528,36,Female,Delhi NCR,72825.0,12,2093.0,22381.0,10,0.58,0.27,Fashion,61.5,0,Deal-Driven Shoppers
+CUST0529,50,Female,Pune,117234.0,5,3369.0,18211.0,18,0.74,0.29,Electronics,27.6,1,At-Risk / Inactive
+CUST0530,31,Female,Hyderabad,50264.0,17,2533.0,40996.0,55,0.65,0.35,Electronics,69.8,0,Deal-Driven Shoppers
+CUST0531,36,Female,Bengaluru,87361.0,15,2682.0,43262.0,17,0.75,0.64,Electronics,76.6,0,Deal-Driven Shoppers
+CUST0532,29,Male,Lucknow,51244.0,12,1969.0,24049.0,33,0.72,0.17,Sports,53.6,0,Deal-Driven Shoppers
+CUST0533,34,Male,Mumbai,64980.0,10,2908.0,29604.0,75,0.77,0.67,Fashion,57.3,0,Deal-Driven Shoppers
+CUST0534,31,Female,Hyderabad,61975.0,11,3303.0,33362.0,37,0.82,0.39,Home,61.3,0,Deal-Driven Shoppers
+CUST0535,20,Female,Hyderabad,67994.0,21,3117.0,69068.0,96,0.87,0.28,Beauty,84.4,2,High-Value Loyalists
+CUST0536,27,Male,Hyderabad,61724.0,8,2651.0,19063.0,32,0.24,0.28,Sports,31.0,1,At-Risk / Inactive
+CUST0537,48,Male,Hyderabad,136807.0,15,1677.0,22895.0,15,0.82,0.46,Fashion,70.0,0,Deal-Driven Shoppers
+CUST0538,29,Other,Hyderabad,80543.0,25,2001.0,48891.0,9,0.84,0.35,Sports,95.1,2,High-Value Loyalists
+CUST0539,33,Male,Lucknow,71121.0,22,2595.0,62801.0,13,0.97,0.56,Home,86.3,2,High-Value Loyalists
+CUST0540,32,Female,Delhi NCR,56504.0,16,2153.0,30506.0,29,0.88,0.27,Home,80.0,0,Deal-Driven Shoppers
+CUST0541,44,Female,Lucknow,19446.0,5,2759.0,15242.0,45,0.53,0.35,Beauty,36.2,0,Deal-Driven Shoppers
+CUST0542,42,Female,Mumbai,108852.0,7,4646.0,35774.0,26,0.42,0.12,Electronics,44.0,1,At-Risk / Inactive
+CUST0543,18,Male,Mumbai,89055.0,13,1494.0,17985.0,26,0.75,0.79,Home,58.1,0,Deal-Driven Shoppers
+CUST0544,41,Female,Lucknow,21566.0,18,1705.0,28047.0,8,0.48,0.46,Fashion,61.6,0,Deal-Driven Shoppers
+CUST0545,25,Female,Bengaluru,76650.0,28,3140.0,86476.0,9,0.48,0.09,Electronics,82.6,2,High-Value Loyalists
+CUST0546,34,Female,Mumbai,72849.0,19,1746.0,33930.0,13,0.94,0.55,Home,70.2,0,Deal-Driven Shoppers
+CUST0547,50,Male,Hyderabad,97417.0,11,1250.0,14981.0,34,0.51,0.32,Home,67.5,0,Deal-Driven Shoppers
+CUST0548,50,Female,Hyderabad,28204.0,21,2684.0,59812.0,67,0.47,0.19,Sports,82.8,2,High-Value Loyalists
+CUST0549,30,Male,Bengaluru,124140.0,34,3464.0,117176.0,79,0.57,0.35,Electronics,100.0,2,High-Value Loyalists
+CUST0550,36,Female,Bengaluru,40388.0,11,3554.0,42710.0,35,0.76,0.41,Fashion,61.2,0,Deal-Driven Shoppers
+CUST0551,49,Female,Delhi NCR,18000.0,7,2920.0,23187.0,19,0.55,0.8,Home,49.9,0,Deal-Driven Shoppers
+CUST0552,18,Male,Mumbai,120831.0,15,1718.0,23084.0,24,0.57,0.33,Beauty,60.7,0,Deal-Driven Shoppers
+CUST0553,37,Female,Lucknow,88368.0,9,1502.0,14210.0,96,0.85,0.04,Fashion,45.1,1,At-Risk / Inactive
+CUST0554,33,Other,Delhi NCR,52015.0,6,3365.0,22918.0,15,0.71,0.26,Beauty,46.0,1,At-Risk / Inactive
+CUST0555,34,Male,Mumbai,103248.0,19,1950.0,37685.0,28,0.45,0.19,Sports,63.2,1,At-Risk / Inactive
+CUST0556,27,Male,Lucknow,65557.0,2,3257.0,5797.0,44,0.51,0.28,Fashion,44.8,1,At-Risk / Inactive
+CUST0557,28,Female,Mumbai,68976.0,13,995.0,11995.0,22,0.69,0.39,Home,69.9,0,Deal-Driven Shoppers
+CUST0558,48,Female,Pune,124054.0,4,2661.0,12011.0,11,0.17,0.58,Home,27.5,1,At-Risk / Inactive
+CUST0559,36,Female,Lucknow,68956.0,6,3685.0,24188.0,22,0.76,0.29,Fashion,48.2,1,At-Risk / Inactive
+CUST0560,53,Female,Delhi NCR,106759.0,24,2335.0,47724.0,37,0.61,0.54,Home,66.5,2,High-Value Loyalists
+CUST0561,30,Female,Bengaluru,29029.0,11,960.0,11573.0,54,0.68,0.21,Fashion,51.8,0,Deal-Driven Shoppers
+CUST0562,26,Female,Hyderabad,91643.0,8,2249.0,19715.0,29,0.53,0.15,Beauty,37.5,1,At-Risk / Inactive
+CUST0563,19,Male,Bengaluru,73354.0,13,2286.0,26950.0,77,0.75,0.38,Home,45.3,0,Deal-Driven Shoppers
+CUST0564,38,Female,Hyderabad,103572.0,11,2087.0,20828.0,46,0.83,0.3,Electronics,56.4,0,Deal-Driven Shoppers
+CUST0565,31,Male,Hyderabad,78364.0,26,2715.0,75902.0,36,0.84,0.34,Electronics,99.1,2,High-Value Loyalists
+CUST0566,34,Male,Lucknow,78245.0,3,3598.0,10635.0,20,0.79,0.37,Home,41.6,1,At-Risk / Inactive
+CUST0567,22,Female,Pune,73042.0,23,4124.0,84884.0,10,0.91,0.3,Home,88.6,2,High-Value Loyalists
+CUST0568,42,Male,Delhi NCR,104473.0,22,3606.0,89814.0,20,0.96,0.24,Fashion,79.5,2,High-Value Loyalists
+CUST0569,52,Female,Pune,18000.0,10,2093.0,22818.0,26,0.45,0.21,Electronics,35.5,0,Deal-Driven Shoppers
+CUST0570,43,Male,Lucknow,74389.0,12,2276.0,27980.0,14,0.85,0.45,Beauty,59.2,0,Deal-Driven Shoppers
+CUST0571,28,Female,Lucknow,101730.0,17,2606.0,37718.0,47,0.88,0.21,Sports,74.8,2,High-Value Loyalists
+CUST0572,33,Male,Delhi NCR,41886.0,3,3403.0,9456.0,67,0.76,0.31,Electronics,37.0,1,At-Risk / Inactive
+CUST0573,55,Male,Hyderabad,111957.0,9,1421.0,10939.0,16,0.77,0.59,Home,50.4,0,Deal-Driven Shoppers
+CUST0574,30,Male,Delhi NCR,62625.0,7,2575.0,17501.0,51,0.49,0.21,Home,33.7,1,At-Risk / Inactive
+CUST0575,42,Female,Delhi NCR,102775.0,7,2981.0,20792.0,24,0.69,0.23,Beauty,38.6,1,At-Risk / Inactive
+CUST0576,18,Male,Mumbai,66508.0,21,1899.0,40247.0,25,0.49,0.22,Home,79.1,2,High-Value Loyalists
+CUST0577,35,Female,Pune,64821.0,4,2195.0,7809.0,37,0.41,0.23,Beauty,28.9,1,At-Risk / Inactive
+CUST0578,18,Male,Pune,52618.0,8,3029.0,24728.0,22,0.2,0.35,Home,31.8,1,At-Risk / Inactive
+CUST0579,43,Male,Delhi NCR,113898.0,13,3844.0,48604.0,32,0.75,0.31,Beauty,47.7,1,At-Risk / Inactive
+CUST0580,19,Male,Delhi NCR,74431.0,6,2620.0,14428.0,23,0.75,0.5,Home,44.4,0,Deal-Driven Shoppers
+CUST0581,39,Female,Hyderabad,99577.0,11,3090.0,36826.0,17,0.64,0.44,Sports,55.6,1,At-Risk / Inactive
+CUST0582,25,Female,Hyderabad,50743.0,11,3101.0,30258.0,21,0.25,0.35,Beauty,42.2,1,At-Risk / Inactive
+CUST0583,38,Male,Bengaluru,69922.0,14,300.0,3791.0,23,0.16,0.63,Sports,58.9,0,Deal-Driven Shoppers
+CUST0584,45,Female,Delhi NCR,124735.0,5,3150.0,15424.0,51,0.61,0.21,Fashion,31.7,1,At-Risk / Inactive
+CUST0585,27,Male,Bengaluru,57409.0,12,2049.0,25935.0,80,0.54,0.16,Electronics,40.7,1,At-Risk / Inactive
+CUST0586,35,Male,Mumbai,47065.0,7,2884.0,19474.0,78,0.7,0.5,Home,38.4,0,Deal-Driven Shoppers
+CUST0587,42,Female,Delhi NCR,70826.0,13,2206.0,25515.0,61,0.58,0.11,Beauty,49.6,1,At-Risk / Inactive
+CUST0588,34,Male,Lucknow,54754.0,8,5247.0,48002.0,24,0.5,0.09,Home,45.8,1,At-Risk / Inactive
+CUST0589,29,Female,Pune,103077.0,10,2492.0,24600.0,67,0.8,0.12,Home,47.4,1,At-Risk / Inactive
+CUST0590,39,Male,Pune,141858.0,34,3827.0,120794.0,3,0.88,0.19,Home,100.0,2,High-Value Loyalists
+CUST0591,48,Male,Lucknow,132501.0,10,2438.0,24271.0,18,0.2,0.57,Fashion,44.9,1,At-Risk / Inactive
+CUST0592,42,Male,Delhi NCR,50893.0,5,2981.0,15228.0,16,0.23,0.42,Fashion,32.7,1,At-Risk / Inactive
+CUST0593,47,Female,Hyderabad,50623.0,5,3118.0,17662.0,44,0.32,0.26,Fashion,28.3,1,At-Risk / Inactive
+CUST0594,44,Male,Lucknow,111376.0,14,1665.0,22839.0,47,0.41,0.35,Fashion,46.2,1,At-Risk / Inactive
+CUST0595,50,Female,Delhi NCR,81322.0,16,1689.0,26698.0,27,0.78,0.22,Sports,58.8,0,Deal-Driven Shoppers
+CUST0596,21,Female,Pune,107861.0,11,2155.0,22282.0,47,0.82,0.57,Beauty,56.8,0,Deal-Driven Shoppers
+CUST0597,39,Female,Pune,33081.0,7,2148.0,14893.0,12,0.27,0.19,Electronics,44.3,1,At-Risk / Inactive
+CUST0598,31,Female,Lucknow,18000.0,8,3474.0,26027.0,48,0.21,0.32,Electronics,27.8,1,At-Risk / Inactive
+CUST0599,43,Female,Lucknow,71229.0,20,1119.0,21413.0,50,0.74,0.31,Beauty,75.4,0,Deal-Driven Shoppers
+CUST0600,26,Female,Delhi NCR,77588.0,19,1759.0,32438.0,60,0.29,0.14,Electronics,61.5,1,At-Risk / Inactive
